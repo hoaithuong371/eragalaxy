@@ -1,0 +1,5 @@
+{
+  "name": "Universe of Memories",
+  "description": "A romantic 3D experience featuring falling memories in a neon-lit universe using Three.js and React.",
+  "requestFramePermissions": []
+}
